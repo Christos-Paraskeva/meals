@@ -1,5 +1,7 @@
 bread
+butter
 Toast
+milk
 jam
 Bagel
 cappucino
