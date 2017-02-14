@@ -1,0 +1,14 @@
+bread
+butter
+Toast
+milk
+Toas
+Toasty
+jam
+Bagel
+<<<<<<< HEAD
+cappucino
+Cereal
+=======
+cappucino
+>>>>>>> a60d2356d58aa2e6506cc2da48f363bd57e117c8

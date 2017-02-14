@@ -7,4 +7,3 @@ Toasty
 jam
 Bagel
 cappucino
-Banana
