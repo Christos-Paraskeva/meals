@@ -3,3 +3,4 @@ Toasty
 jam
 Bagel
 cappucino
+Cereal
