@@ -1,5 +1,5 @@
 bread
-Toast
+Toasty
 jam
 Bagel
 cappucino
